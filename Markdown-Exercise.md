@@ -27,6 +27,45 @@ Currently I am working at the college as a **Student Employee** at **Montgomery 
 ![Beautiful NASA](NASA.png) 
 
 ## Blockquote
-> "The only limit to our realization of tomorrow is our doubts of today."  — Franklin D. Roosevelt
+> "The only limit to our realization of tomorrow is our doubts of today."
+>  — Franklin D. Roosevelt
+
+### Inline Code and Code Blocks
+1. **Incline Code**
+##### Example of inline code: 
+`print(“Climate Data”)`
+
+2. **Code Blocks**
+##### Example of code blocks: 
+
+```
+def Nasa_World():
+    print("See the world!")
+```
+
+### Add a table
+
+| Month | Preceoitation (mm) | Average Temperature (C)|
+|----------|----------|----------|
+| January | 415 | 26 |
+| February | 255 | 29 |
+| March | 86 | 45 |
+
+
+### Task List for Climate Data Analysis 
+
+- [x] Collect climate data from reliable sources (e.g., NOAA, NASA) 
+- [ ] Clean data
+- [ ] Perform exploratory data analysis 
+- [ ] Visualize key climate variables 
+- [ ] Apply statistical models to analyze trends and anomalies 
+- [ ] Validate the results with historical data 
+- [ ] Compare climate data with different geographic regions 
+- [ ] Interpret
+- [ ] Create a report summarizing findings and visualizations 
+- [ ] Present the analysis
+
+
+
 
 
