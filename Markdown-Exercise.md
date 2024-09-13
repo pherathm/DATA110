@@ -7,7 +7,7 @@
 ### Background 
 
 I love learn in **Physics** and **Statistics**. My desired research areas are: 
-- Atmospheric Physics
+- Atmospheric Physics 
 - Climate Data Analysis
 - Meteorological Instrumentation
 - Air Pollution Dispersion
@@ -55,19 +55,19 @@ def Nasa_World():
 ### Task List for Climate Data Analysis 
 
 - [x] Collect climate data from reliable sources (e.g., NOAA, NASA) 
-- [ ] Clean data
-- [ ] Perform exploratory data analysis 
-- [ ] Visualize key climate variables 
-- [ ] Apply statistical models to analyze trends and anomalies 
-- [ ] Validate the results with historical data 
-- [ ] Compare climate data with different geographic regions 
-- [ ] Interpret
-- [ ] Create a report summarizing findings and visualizations 
-- [ ] Present the analysis
+- [x] Clean data
+- [x] Perform exploratory data analysis 
+- [x] Visualize key climate variables 
+- [x] Apply statistical models to analyze trends and anomalies 
+- [x] Validate the results with historical data 
+- [x] Compare climate data with different geographic regions 
+- [x] Interpret
+- [x] Create a report summarizing findings and visualizations 
+- [x] Present the analysis
 
 ### Footnote.[^1]
 
-[^1]: NOAA's Climate Data Online provides access to a wide range of climate data including temperature, precipitation, and other variables. This data is crucial for understanding climate patterns and trends, and it helps in making informed decisions about climate-related issues.
+[^1]: NASA's Climate Data Online provides access to a wide range of climate data including temperature, precipitation, and other variables. This data is crucial for understanding climate patterns and trends, and it helps in making informed decisions about climate-related issues.
 
 
 
