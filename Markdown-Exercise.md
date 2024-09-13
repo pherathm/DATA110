@@ -14,9 +14,9 @@ I love learn in **Physics** and **Statistics**. My desired research areas are:
 
 ### Work Study 
 
-Currently I am working at the college as a **Student Employee** at **Montgomery College** in 
-1. **ShaW Center** : Peer Navigator
-2. **College Library**: Student Worker
+I would like to work in the fields of **Atmospheric Sciences** and **Data Analysis** and hope to join with the;
+1. **NASA** 
+2. **SpaceX**
 
 
 #### *Here is a link to NASA Website:*
